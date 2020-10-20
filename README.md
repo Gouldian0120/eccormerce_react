@@ -22,9 +22,9 @@ The application is composed of the following Features:
 * In the future it will also hold all shopping related and cart related dtaa of each user.
 
 **Progress:**
-Current Progress: 75%
+Current Progress: 50%
 <br/>
-![](src/assets/progressbar.png)
+![](src/assets/progress.png)
 
 
 **SCREENSHOTS:**
